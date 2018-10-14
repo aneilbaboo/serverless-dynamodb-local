@@ -1,6 +1,6 @@
 {
     "name": "@aneilbaboo/serverless-dynamodb-local",
-    "version": "0.2.11-aneilbaboo1",
+    "version": "0.2.11-aneilbaboo2",
     "engines": {
         "node": ">=4.0"
     },
