@@ -4,7 +4,7 @@ const _ = require('lodash'),
     BbPromise = require('bluebird'),
     dynamodbMigrations = require('dynamodb-migrations'),
     AWS = require('aws-sdk'),
-    dynamodbLocal = require('dynamodb-localhost');
+    dynamodbLocal = require('@aneilbaboo/dynamodb-localhost');
 
 module.exports = function (S) {
 
